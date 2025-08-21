@@ -1,7 +1,7 @@
 # Bill-of-Materials-for-PCB-Design
 # Aim
 
-To prepare the Bill of Material for the given circuit.
+To prepare the Bill of Material for the power supply module PCB circuit.
 
 # Software’s required
 
@@ -58,17 +58,18 @@ During the product life, components may fail needing repair or upgrade. Here the
 •	Diagnostics — Expected voltages, signal values </br>
 
 # Circuit Diagram
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/fd6e2bc2-385e-4ebe-97a5-a221852ba355" />
 
 
 
 
 # Output
 
-
+https://1drv.ms/x/c/bb4d30ecfcb4e2c4/EVTn81_KxGxGhS9Q68vpMgsBNYurUFc_B95KU-zUgLzakQ?e=LA7gPi
 
 
 
 # Result 
-Thus the bill of materials is prepared for the given PCB circuit.
+Thus the bill of materials is prepared for the power supply module PCB circuit.
 
 
